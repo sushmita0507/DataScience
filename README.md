@@ -1,6 +1,6 @@
 # DataScience
-Practice of Data Science Internship practice and Assignments
-DataScience/practice_sushmita_U.ipynb and practice_sushmita_u1.ipynb is the file that is exported from google collab.
+# Practice of Data Science Internship practice and Assignments
+# DataScience/practice_sushmita_U.ipynb and practice_sushmita_u1.ipynb is the file that is exported from google collab.
 these files contain python code practices and their output
 in []: represents python code in the box
 out[]: represents output of particular code executed before.
