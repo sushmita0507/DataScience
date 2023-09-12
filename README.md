@@ -1,5 +1,5 @@
 # DataScience
-# Practice of Data Science Internship practice and Assignments \n
+# Practice of Data Science Internship practice and Assignments 
 
 these files contain python code practices and their output.
 in []: represents python code in the box
